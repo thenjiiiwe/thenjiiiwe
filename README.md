@@ -32,7 +32,9 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThenjiweSamooo&show_icons=true&theme=transparent)
+<a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThenjiweSamooo)](https://github.com/ThenjiweSamooo/github-readme-stats) </a> <br/>
+<a> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThenjiweSamooo)](https://github.com/ThenjiweSamooo/github-readme-stats) </a>
+
 
 <br/>
 
