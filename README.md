@@ -32,10 +32,7 @@
 
 <br/>
 
-<a href="https://github.com/ThenjiiiweSamooo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThenjiweSamooo&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThenjiweSamooo&theme=buefy&layout=compact" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <br/>
 
