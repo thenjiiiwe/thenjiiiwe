@@ -33,7 +33,7 @@
 <br/>
 
 <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThenjiweSamooo)](https://github.com/ThenjiweSamooo/github-readme-stats) </a> <br/>
-<a> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThenjiweSamooo)](https://github.com/ThenjiweSamooo/github-readme-stats) </a>
+<a> [![Thenjiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThenjiweSamooo)](https://github.com/ThenjiweSamooo/github-readme-stats) </a>
 
 
 <br/>
