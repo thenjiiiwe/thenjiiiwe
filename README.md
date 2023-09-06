@@ -1,4 +1,4 @@
-<h1 align="center"> :grin: hi, i'm Thenjiwe Samooo :grin: </h1>
+<h1 align="center"> :grin: hi, i'm Thenjiwe :grin: </h1>
 <h3 align="center"> :sparkles: fullstack devlover :sparkles: </h3>
 
 </br>
@@ -32,8 +32,8 @@
 
 <br/>
 
-<a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThenjiweSamooo)](https://github.com/ThenjiweSamooo/github-readme-stats) </a> <br/>
-<a> [![Thenjiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThenjiweSamooo)](https://github.com/ThenjiweSamooo/github-readme-stats) </a>
+<a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenjiiiwe)](https://github.com/thenjiiiwe/github-readme-stats) </a> <br/>
+<a> [![Thenjiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenjiiiwe)](https://github.com/thenjiiiwe/github-readme-stats) </a>
 
 
 <br/>
