@@ -1,4 +1,4 @@
-<h1 align="center"> :grin: hi, i'm Thenjiwe :grin: </h1>
+<h1 align="center"> hi, i'm Thenjiwe </h1>
 <h3 align="center"> :sparkles: fullstack devlover :sparkles: </h3>
 
 </br>
@@ -41,8 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://samooo.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-samooo.dev-orange?style=flat-square&logo=google-chrome"></a>
+<a href="https://linktr.ee/twmio/"><img alt="Website" src="https://img.shields.io/badge/Website-samooo.dev-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/thenjiiiwe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thenjiiiwe-orange?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/samooo.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samooo.dev__-orange?style=flat-square&logo=instagram"></a>
-<a href="mailto:samuthedev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samuthedev@gmail-orange?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/thenjiiiwe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samooo.dev__-orange?style=flat-square&logo=instagram"></a>
 </p>
