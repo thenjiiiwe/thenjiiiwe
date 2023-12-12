@@ -1,14 +1,7 @@
 <h1 align="center"> hi, i'm Thenjiwe </h1>
-<h3 align="center"> :sparkles: fullstack devlover :sparkles: </h3>
+<h3 align="center"> fullstack devlover, data anaylst </h3>
 
 </br>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🎓 &nbsp; Currently learning Javascript, part of a bootcamp as well as self-teaching.
-- :computer: &nbsp; Freelancing as a website designer.
-- 🌱 &nbsp; Pursuing game development and modding as a hobby. This includes using Blender to create <a href="https://www.thesimsresource.com/members/sageabara/">custom content for The Sims 4</a>.
-- ✍️ &nbsp; Other hobbies include doodling, crocheting, and playing farming games.
 
 <h3> 🛠 &nbsp;Tools & Learning</h3>
 
@@ -27,8 +20,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+
 
 <br/>
 
@@ -38,10 +30,10 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 <p align="center">
-<a href="https://linktr.ee/twmio/"><img alt="Website" src="https://img.shields.io/badge/Website-samooo.dev-orange?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/thenjiiiwe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thenjiiiwe-orange?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/thenjiiiwe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samooo.dev__-orange?style=flat-square&logo=instagram"></a>
+<a href="https://linktr.ee/thenjiiiwe/"><img alt="shenanigans" src="https://img.shields.io/badge/Website-linktree-thenjiiiwe-white?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/thenjiiiwe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thenjiiiwe-white?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/thenjiiiwe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thenjiiiwe-white?style=flat-square&logo=instagram"></a>
 </p>
