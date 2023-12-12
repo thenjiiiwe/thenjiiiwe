@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Thenjiwe </h1>
-<h3 align="center"> fullstack devlover, data anaylst </h3>
+<h3 align="center"> fullstack developer, data anaylst </h3>
 
 </br>
 
