@@ -1,4 +1,4 @@
-<h1 align="center"> hi, i'm Thenjiwe </h1>
+<h1 align="center"> I'm Thenjiwe </h1>
 <h3 align="center"> fullstack devlover, data anaylst </h3>
 
 </br>
@@ -19,21 +19,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
 
 
 <br/>
 
 <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenjiiiwe)](https://github.com/thenjiiiwe/github-readme-stats) </a> <br/>
 <a> [![Thenjiwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenjiiiwe)](https://github.com/thenjiiiwe/github-readme-stats) </a>
-
-
-<br/>
-
-<h3> Connect with Me </h3>
-
-<p align="center">
-<a href="https://linktr.ee/thenjiiiwe/"><img alt="shenanigans" src="https://img.shields.io/badge/Website-linktree-thenjiiiwe-white?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/thenjiiiwe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thenjiiiwe-white?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/thenjiiiwe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thenjiiiwe-white?style=flat-square&logo=instagram"></a>
-</p>
