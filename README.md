@@ -1,5 +1,5 @@
 <div align=center>
-# 👋 Hi, I'm Thenj!
+<strong>👋 Hi, I'm Thenj!/strong>
 👩🏾‍💻 Front-end developer<br/>
 👩🏻‍🎓 Enrolled in [Data Science Programme](https://www.alxafrica.com/programme/data-science/) offered by ALX Africa in partnership with ExploreAI Academy.<br/>
 👾 Game development hobbiest, the hub for my creations is [itch.io](https://mandomangos.itch.io/)<br/>
@@ -39,7 +39,7 @@
 
 
 <div align=center>
-  # 📊 Stats
+  <strong> 📊 Stats</strong>
   
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=thenjiiiwe&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
