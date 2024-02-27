@@ -1,11 +1,11 @@
-<div align=center>
-<strong>👋 Hi, I'm Thenj!/strong>
+
+# 👋 Hi, I'm Thenj!
 👩🏾‍💻 Front-end developer<br/>
 👩🏻‍🎓 Enrolled in [Data Science Programme](https://www.alxafrica.com/programme/data-science/) offered by ALX Africa in partnership with ExploreAI Academy.<br/>
 👾 Game development hobbiest, the hub for my creations is [itch.io](https://mandomangos.itch.io/)<br/>
 ⌨️ #learninginpublic and sharing my data journey on my [Medium](https://medium.com/@thenjiiiwe27)<br/>
 🖥️ My hightlight projects displayed on my [portfolio website](https://thenjiwemhlongo.co.za/)<br/>
-</div>
+
 
 
 # 💻 Tech Stack
@@ -37,10 +37,10 @@
 
 
 
-
-<div align=center>
-  <strong> 📊 Stats</strong>
+# 📊 Stats
   
+<div align=center>
+
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=thenjiiiwe&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=thenjiiiwe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
