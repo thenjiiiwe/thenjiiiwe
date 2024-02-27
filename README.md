@@ -6,6 +6,8 @@
 ⌨️ #learninginpublic and sharing my data journey on my [Medium](https://medium.com/@thenjiiiwe27)<br/>
 🖥️ My hightlight projects displayed on my [portfolio website](https://thenjiwemhlongo.co.za/)<br/>
 
+<hr>
+
 <div align = center>
  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thenjiiiwe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
