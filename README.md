@@ -1,10 +1,10 @@
 
 # 👋 Hi, I'm Thenj!
 👩🏾‍💻 Front-end developer<br/>
-👩🏻‍🎓 Enrolled in [Data Science Programme](https://www.alxafrica.com/programme/data-science/) offered by ALX Africa in partnership with ExploreAI Academy.<br/>
+👩🏻‍🎓 Enrolled in [Data Science Programme](https://www.alxafrica.com/programme/data-science/) offered by ALX Africa.<br/>
 👾 Game development hobbiest, the hub for my creations is [itch.io](https://mandomangos.itch.io/)<br/>
-⌨️ #learninginpublic and sharing my data journey on my [Medium](https://medium.com/@thenjiiiwe27)<br/>
-🖥️ My hightlight projects displayed on my [portfolio website](https://thenjiwemhlongo.co.za/)<br/>
+⌨️ #learninginpublic and sharing my data science journey in my [digital garden](https://thenjiwemhlongo.co.za/)<br/>
+🖥️ My general purpose blog focused on experiences with tech, software, the whole bunch on [Medium](https://medium.com/@thenjiiiwe27)<br/>
 
 <hr>
 
