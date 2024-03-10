@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Thenj!
 👩🏾‍💻 Front-end developer<br/>
-👩🏻‍🎓 Enrolled in [Data Science Programme](https://www.alxafrica.com/programme/data-science/) offered by ALX Africa.<br/>
 👾 Game development hobbiest, the hub for my creations is [itch.io](https://mandomangos.itch.io/)<br/>
-⌨️ #learninginpublic and sharing my data science journey in my [digital garden](https://thenjiwemhlongo.co.za/)<br/>
+⌨️ #learninginpublic and sharing my programming journey in my [digital garden](https://thenjiwemhlongo.co.za/)<br/>
 🖥️ My general purpose blog focused on experiences with tech, software, the whole bunch on [Medium](https://medium.com/@thenjiiiwe27)<br/>
 
 <hr>
@@ -37,10 +36,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br/>
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
